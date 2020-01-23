@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "atom-package-deps": "^5.1.0",
-    "remote-ftp": "^2.2.4"
+    "linter-php": "^1.6.1"
   },
   "deserializers": {
     "d1-view/D1View": "deserializeD1View"
