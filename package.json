@@ -12,7 +12,9 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "atom-package-deps": "^5.1.0"
+  },
   "deserializers": {
     "d1-view/D1View": "deserializeD1View"
   },
