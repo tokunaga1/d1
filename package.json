@@ -20,6 +20,5 @@
     "d1-view/D1View": "deserializeD1View"
   },
   "package-deps": [
-    "remote-ftp"
   ]
 }
