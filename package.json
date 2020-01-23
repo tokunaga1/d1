@@ -13,7 +13,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-package-deps": "^5.1.0"
+    "atom-package-deps": "^5.1.0",
+    "remote-ftp": "^2.2.4"
   },
   "deserializers": {
     "d1-view/D1View": "deserializeD1View"
