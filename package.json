@@ -14,10 +14,8 @@
   },
   "dependencies": {
     "atom-package-deps": "^5.1.0",
-    "linter-php": "^1.6.1"
   },
   "deserializers": {
     "d1-view/D1View": "deserializeD1View"
-  },
-  "package-deps": []
+  }
 }
