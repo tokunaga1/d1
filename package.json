@@ -2,7 +2,7 @@
   "name": "d1",
   "main": "./lib/d1",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "*** my example ***",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "d1:toggle"
@@ -15,5 +15,8 @@
   "dependencies": {},
   "deserializers": {
     "d1-view/D1View": "deserializeD1View"
-  }
+  },
+  "package-deps": [
+    "remote-ftp"
+  ]
 }
