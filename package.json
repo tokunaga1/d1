@@ -1,7 +1,7 @@
 {
   "name": "d1",
   "main": "./lib/d1",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "*** my example ***",
   "keywords": [],
   "activationCommands": {
@@ -19,6 +19,5 @@
   "deserializers": {
     "d1-view/D1View": "deserializeD1View"
   },
-  "package-deps": [
-  ]
+  "package-deps": []
 }
